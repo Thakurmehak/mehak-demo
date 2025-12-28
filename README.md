@@ -1,4 +1,4 @@
 # mehak-demo
 This is my first Git repository. 
 <br>
-Author - Mehak 
+Author - Mehak (Thakur)
